@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/trung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c0d282a995e5851452b16113f3e0f79/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

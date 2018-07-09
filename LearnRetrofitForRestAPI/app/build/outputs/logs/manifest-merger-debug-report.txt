@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0a5e6a6d0ebf4f1178df1e5bdddeebb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c0d282a995e5851452b16113f3e0f79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/trung/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5c45a3e87cce44243cbeb2ec0935c27f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8e0a72c8b67ebc69286c12daefc4ded3/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/trung/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fca72f7bfb6eac81538f5a086afbecb8/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/617bbecb61a97e7ec2ec33297917f09f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/538f2f002f8ba332d230d13d04046a38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3a517275008b51b5ea0b397bf2085981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c22b166824f1fe78b7cde3935cce72a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7999d07a050a6d8bb712defd7337fb4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/54ba3abf2bc10c01868bb70240f31f82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/89114727381ed1fee766ca06669bfdd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/56cd70c3234703f7d7113b8b062cef36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4ebce147bc8884930e80f9ad63a08261/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad1ca8487003c7fd6a8bc6003a18ba35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81bf80974b81eea5d546ceeb92a04120/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5c4cf1b61b6d13567b79a5bd404fbf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9f48f74d97e125bf81bf7e19acc6eea/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:5:301-363
+	android:name
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:5:318-360
+application
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/trung/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5c45a3e87cce44243cbeb2ec0935c27f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/trung/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5c45a3e87cce44243cbeb2ec0935c27f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.dell.learnretrofitforrestapi.MainActivity
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.dell.learnretrofitforrestapi.Main2Activity
+ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0a5e6a6d0ebf4f1178df1e5bdddeebb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/0a5e6a6d0ebf4f1178df1e5bdddeebb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c0d282a995e5851452b16113f3e0f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c0d282a995e5851452b16113f3e0f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/trung/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5c45a3e87cce44243cbeb2ec0935c27f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/trung/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5c45a3e87cce44243cbeb2ec0935c27f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8e0a72c8b67ebc69286c12daefc4ded3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8e0a72c8b67ebc69286c12daefc4ded3/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/trung/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fca72f7bfb6eac81538f5a086afbecb8/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/trung/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fca72f7bfb6eac81538f5a086afbecb8/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/617bbecb61a97e7ec2ec33297917f09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/617bbecb61a97e7ec2ec33297917f09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/538f2f002f8ba332d230d13d04046a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/538f2f002f8ba332d230d13d04046a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3a517275008b51b5ea0b397bf2085981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/3a517275008b51b5ea0b397bf2085981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c22b166824f1fe78b7cde3935cce72a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c22b166824f1fe78b7cde3935cce72a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7999d07a050a6d8bb712defd7337fb4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7999d07a050a6d8bb712defd7337fb4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/54ba3abf2bc10c01868bb70240f31f82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/54ba3abf2bc10c01868bb70240f31f82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/89114727381ed1fee766ca06669bfdd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/89114727381ed1fee766ca06669bfdd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/56cd70c3234703f7d7113b8b062cef36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/56cd70c3234703f7d7113b8b062cef36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4ebce147bc8884930e80f9ad63a08261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4ebce147bc8884930e80f9ad63a08261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad1ca8487003c7fd6a8bc6003a18ba35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad1ca8487003c7fd6a8bc6003a18ba35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81bf80974b81eea5d546ceeb92a04120/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81bf80974b81eea5d546ceeb92a04120/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5c4cf1b61b6d13567b79a5bd404fbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5c4cf1b61b6d13567b79a5bd404fbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9f48f74d97e125bf81bf7e19acc6eea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/trung/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9f48f74d97e125bf81bf7e19acc6eea/AndroidManifest.xml:20:5-44
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		ADDED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/src/main/AndroidManifest.xml

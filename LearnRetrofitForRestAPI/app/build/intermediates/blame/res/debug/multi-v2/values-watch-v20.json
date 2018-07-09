@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/trung/AndroidStudioProjects/LearnRetrofitForRestAPI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/trung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c0d282a995e5851452b16113f3e0f79/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
